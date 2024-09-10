@@ -1,3 +1,5 @@
+**Задание 1**
+
 _реализованы 2 уровня решения_
 
 # Бизнес функции
@@ -73,3 +75,13 @@ localstorage (библиотека глобального состояния).
 [Footer](frontend/microfrontend/profile/src/components/Footer.js)
 [PopupWithForm](frontend/microfrontend/profile/src/components/PopupWithForm.js)
 [ProtectedRoute](frontend/microfrontend/profile/src/components/ProtectedRoute.js)
+
+-----------
+
+**Задание 2**
+
+[arch_template_task2.drawio](./arch_template_task2.drawio)
+
+Вкладка "Структура сервисов": представлена структура сервисов их границы без связей
+
+Вкладка "Оплата заказа": основной сценарий оплаты заказа, модифицированный под новую структуру сервисов
